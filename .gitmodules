@@ -1,0 +1,6 @@
+[submodule "wfas-server"]
+	path = wfas-server
+	url = git@github.com:soamn/wfas-server.git
+[submodule "wfas-ui"]
+	path = wfas-ui
+	url = git@github.com:soamn/wfas-ui.git
